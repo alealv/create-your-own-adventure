@@ -11,3 +11,5 @@ el Consejero:
 [Se dirigió a la muralla exterior del pueblo.](muralla/muralla.md)
 
 [Empaquetó sus cosas e intentó salir por la puerta trasera.](huida/puerta.md)
+
+[Asustado lanzó un grito de terror y le indico a Beatito que se oculte.](escondite/escondite.md)
